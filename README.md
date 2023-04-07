@@ -1,2 +1,22 @@
-# bpe_sharp
-An implementation of a Byte-Pair Encoding tokenizer in C#
+# Csharp Implementation
+
+## Forked from
+
+https://github.com/edirgarcia/bpe_sharp
+
+## Status
+
+Works fine.
+
+## Implemented
+
+```
+BPE
+```
+
+## Not implemented
+
+```
+BPE-Dropout
+BPE-Dropout MaxMatch
+```
